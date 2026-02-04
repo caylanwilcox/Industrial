@@ -8,7 +8,7 @@ function App() {
         <div className="container top-bar-content">
           <span className="location">720 New Haven Ave, Aurora, IL 60506</span>
           <div className="top-contact">
-            <a href="mailto:gllanos@ispalletinc.com">gllanos@ispalletinc.com</a>
+            <a href="mailto:isp@ispalletinc.com">isp@ispalletinc.com</a>
             <a href="tel:6304863344" className="top-phone">(630) 486-3344</a>
           </div>
         </div>
@@ -165,7 +165,7 @@ function App() {
             <a href="tel:6304863344" className="btn btn-white btn-large">
               <span className="btn-icon">&#9742;</span> (630) 486-3344
             </a>
-            <a href="mailto:gllanos@ispalletinc.com" className="btn btn-outline-white btn-large">
+            <a href="mailto:isp@ispalletinc.com" className="btn btn-outline-white btn-large">
               Email Us
             </a>
           </div>
@@ -191,7 +191,7 @@ function App() {
                 <div className="contact-icon">&#9993;</div>
                 <div className="contact-text">
                   <span className="contact-label">Email</span>
-                  <a href="mailto:gllanos@ispalletinc.com">gllanos@ispalletinc.com</a>
+                  <a href="mailto:isp@ispalletinc.com">isp@ispalletinc.com</a>
                 </div>
               </div>
               <div className="contact-item">
@@ -214,7 +214,7 @@ function App() {
               <a href="tel:6304863344" className="btn btn-primary btn-large">
                 <span className="btn-icon">&#9742;</span> Call (630) 486-3344
               </a>
-              <a href="mailto:gllanos@ispalletinc.com" className="btn btn-secondary btn-large">
+              <a href="mailto:isp@ispalletinc.com" className="btn btn-secondary btn-large">
                 Email Us
               </a>
             </div>
@@ -244,8 +244,14 @@ function App() {
             <div className="footer-contact">
               <h4>Contact</h4>
               <a href="tel:6304863344">(630) 486-3344</a>
-              <a href="mailto:gllanos@ispalletinc.com">gllanos@ispalletinc.com</a>
+              <a href="mailto:isp@ispalletinc.com">isp@ispalletinc.com</a>
               <span>720 New Haven Ave, Aurora, IL 60506</span>
+            </div>
+            <div className="footer-directory">
+              <h4>Directory</h4>
+              <a href="mailto:sales@ispalletinc.com">Sales: sales@ispalletinc.com</a>
+              <a href="mailto:accounting@ispalletinc.com">Accounting & Billing: accounting@ispalletinc.com</a>
+              <a href="mailto:gllanos@ispalletinc.com">Questions & Inquiries: gllanos@ispalletinc.com</a>
             </div>
           </div>
           <div className="footer-bottom">
